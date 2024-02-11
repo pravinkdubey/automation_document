@@ -46,9 +46,10 @@ It will have capabilities like
 - Automatically picking test steps with data.
 
 ## Test Case Manager
-### Test Case Configuration
-### Test Case Variables
-### Test Case Shared Steps
+This would help in:
+- Configuring test suites.
+- Creating test with variables.
+- Creating shared steps.
 
 ## Logger
 
