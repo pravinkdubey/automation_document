@@ -1,17 +1,12 @@
 # Automate Anything Framework
 This will a single free tool for automating anything on any platform.
-With minimal coding required to be done for automating the flow
+With minimal coding required to be done for automating the flow.
 
-## Web
-This would contain the framework for Web Automation using
-- [Selenium](https://www.selenium.dev)
-- [Playwright](https://playwright.dev/dotnet)
-
-### [Selenium](https://www.selenium.dev)
-This would contain the framework for the Web using Selenium
-
-### [Playwright](https://playwright.dev/dotnet)
-This would contain the framework for the Web using Playwright
+It would cover:
+- [Api Automation Framework](https://github.com/pravinkdubey/automation_document/blob/main/Api%20Automation%20Framework.md)
+- Web Automation Framework
+- Mobile Automation Framework
+- Desktop Automation Framework
 
 ## Mobile
 This would contain the framework for Mobile Automation using 
