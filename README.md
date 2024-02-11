@@ -1,4 +1,4 @@
-# Automate Anything Framework
+# Automation Framework
 This will a single free tool for automating anything on any platform.
 With minimal coding required to be done for automating the flow.
 
