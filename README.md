@@ -1,4 +1,7 @@
-# Framework
+# Automate Anything
+This will a single free tool for automating anything on any platform.
+With minimal coding required to be done for automating the flow
+
 ## Api
 This would contain the framework for API Automation using
 - HttpClient
