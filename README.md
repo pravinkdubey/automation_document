@@ -7,4 +7,4 @@ It would cover:
 - [Web Automation Framework](https://github.com/pravinkdubey/automation_document/blob/main/Web%20Automation%20Framework.md)
 - [Mobile Automation Framework](https://github.com/pravinkdubey/automation_document/blob/main/Mobile%20Automation%20Framework.md)
 - [Desktop Automation Framework](https://github.com/pravinkdubey/automation_document/blob/main/Desktop%20Automation%20Framework.md)
-- Utilities
+- [Utilities](https://github.com/pravinkdubey/automation_document/blob/main/Utilities.md)
