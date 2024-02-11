@@ -29,13 +29,21 @@ This would contain the framework for Desktop Automation using
 - [WinAppDriver](https://techcommunity.microsoft.com/t5/testingspot-blog/winappdriver-and-desktop-ui-test-automation/ba-p/1124543)
 
 # Utilities
+## Test Manager
+This would help in:
+- Creating list of test to be executed together.
+- Scheduling the execution of list.
+
 ## JsonManager
 ## Configuration Manager
 
 ## Reporting Tool
-### Memory Based
-### Image Capturing
-### Step Capturing with Data
+This reporting tool will be integratable with any existing test case mangement tool.
+It will have capabilities like
+- Attaching Screenshots
+- Adding logs
+- Adding Video
+- Automatically picking test steps with data.
 
 ## Test Case Manager
 ### Test Case Configuration
