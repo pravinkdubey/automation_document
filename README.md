@@ -2,12 +2,6 @@
 This will a single free tool for automating anything on any platform.
 With minimal coding required to be done for automating the flow
 
-## Api
-This would contain the framework for API Automation using
-- HttpClient using Java & .Net
-- RestSharp using .NET
-- RestAssured using Java
-
 ## Web
 This would contain the framework for Web Automation using
 - [Selenium](https://www.selenium.dev)
