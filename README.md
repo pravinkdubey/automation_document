@@ -4,9 +4,9 @@ With minimal coding required to be done for automating the flow
 
 ## Api
 This would contain the framework for API Automation using
-- HttpClient
-- RestSharp
-- RestAssured
+- HttpClient using Java & .Net
+- RestSharp using .NET
+- RestAssured using Java
 
 ## Web
 This would contain the framework for Web Automation using
