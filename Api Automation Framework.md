@@ -6,13 +6,15 @@ This would contain the framework for API Automation using
 
 Generic Contract Class
 `Contract<Request, Response>`
+
 Supports
-Multiple Authentication Types
-Retry Capabilities - Configurable
-ApiClientWait
-Version 
-Custom Port 
-Url Param 
-Intercept
-Mock
-Stub
+- Multiple Authentication Types
+- Retry Capabilities - Configurable
+- Differrent Environments
+- ApiClientWait
+- Version
+- Custom Port
+- Url Param
+- Intercept
+- Mock
+- Stub
