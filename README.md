@@ -26,9 +26,22 @@ This would contain the framework for Desktop Automation using
 
 # Utilities
 ## JsonManager
+## Configuration Manager
+
+## Reporting Tool
+### Memory Based
+### Image Capturing
+### Step Capturing with Data
+
+## Test Case Manager
+### Test Case Configuration
+### Test Case Variables
+### Test Case Shared Steps
+
 ## Logger
+
 ## Email
 This would be responsible for everything related to email 
-## Report
+
 ### Azure Test Manager
 This would be responsible for the integration of the automation framework with Azure Test Plans
