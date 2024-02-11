@@ -26,5 +26,5 @@ This would help in:
 ## Email
 This would be responsible for everything related to email 
 
-### Azure Test Manager
+## Azure Test Manager
 This would be responsible for the integration of the automation framework with Azure Test Plans
