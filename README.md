@@ -8,4 +8,4 @@ It would cover:
 - [Mobile Automation Framework](https://github.com/pravinkdubey/automation_document/blob/main/Mobile%20Automation%20Framework.md)
 - [Desktop Automation Framework](https://github.com/pravinkdubey/automation_document/blob/main/Desktop%20Automation%20Framework.md)
 - [Utilities](https://github.com/pravinkdubey/automation_document/blob/main/Utilities.md)
-- - [Azure Test Plan Manager]()
+- - [Azure Test Plan Manager](https://github.com/pravinkdubey/automation_document/blob/main/Azure%20Test%20Plan%20Manager.md)
