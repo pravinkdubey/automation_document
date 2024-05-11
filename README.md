@@ -24,7 +24,7 @@ It would cover:
   - [Excel](https://github.com/pravinkdubey/automation_document/blob/main/DBAutomationFrarmework/ExcelManager.md)
   - [Mongo](https://github.com/pravinkdubey/automation_document/blob/main/DBAutomationFrarmework/MongoDbManager.md)
   - [MsSql](https://github.com/pravinkdubey/automation_document/blob/main/DBAutomationFrarmework/MsSqlManager.md)
-- [Cloud Tools]
+- [Cloud Tools]()
   - [AWS Lambda AutomationTesting]()
   - [Azure Test Plan](https://github.com/pravinkdubey/automation_document/blob/main/CloudAutomation/Azure/AzureTestPlanManager.md)
 - [Virtualization]()
